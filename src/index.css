@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  ::selection {
+    background-color: #f5b700;
+    color: #10142b;
+  }
+}
+
+@layer components {
+  /* Recurring "route strip" signature element: a horizontal dotted rail
+     used to visualize the walk from a monument to its nearest station. */
+  .route-strip {
+    position: relative;
+    height: 2px;
+    background: repeating-linear-gradient(
+      to right,
+      currentColor 0,
+      currentColor 6px,
+      transparent 6px,
+      transparent 12px
+    );
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-mono font-semibold tracking-wide;
+  }
+
+  .eyebrow {
+    @apply font-mono text-xs uppercase tracking-[0.2em] text-slate-soft;
+  }
+
+  .focus-ring {
+    @apply outline-none focus-visible:ring-2 focus-visible:ring-signal focus-visible:ring-offset-2 focus-visible:ring-offset-ink;
+  }
+}

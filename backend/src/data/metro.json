@@ -1,0 +1,2852 @@
+[
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Shaheed Sthal(First Station)",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6706109,
+    "Longitude": 77.4155822
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Hindon River",
+    "Dist. From First Station(km)": 1,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.878965,
+    "Longitude": 77.4154832
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Arthala",
+    "Dist. From First Station(km)": 2.5,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.676999,
+    "Longitude": 77.3918919
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Mohan Nagar",
+    "Dist. From First Station(km)": 3.2,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.60631905,
+    "Longitude": 77.10608185
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Shyam park",
+    "Dist. From First Station(km)": 4.5,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6988072,
+    "Longitude": 28.6988072
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Major Mohit Sharma",
+    "Dist. From First Station(km)": 5.7,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6776112,
+    "Longitude": 77.3581426
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Raj Bagh",
+    "Dist. From First Station(km)": 6.9,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6408602,
+    "Longitude": 77.2094999
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Shaheed Nagar",
+    "Dist. From First Station(km)": 8.2,
+    "Metro Line": "Red line",
+    "Opened(Year)": "08-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.5307795,
+    "Longitude": 77.2120573
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Dilshad Garden",
+    "Dist. From First Station(km)": 9.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "04-06-2008",
+    "Layout": "Elevated",
+    "Latitude": 28.67592,
+    "Longitude": 77.32142
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Jhil Mil",
+    "Dist. From First Station(km)": 10.3,
+    "Metro Line": "Red line",
+    "Opened(Year)": "04-06-2008",
+    "Layout": "Elevated",
+    "Latitude": 28.67579,
+    "Longitude": 77.31239
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Mansarovar Park",
+    "Dist. From First Station(km)": 11.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "04-06-2008",
+    "Layout": "Elevated",
+    "Latitude": 28.67544,
+    "Longitude": 77.30095
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Shahdara",
+    "Dist. From First Station(km)": 12.5,
+    "Metro Line": "Red line",
+    "Opened(Year)": "24-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.67345,
+    "Longitude": 77.28962
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Welcome [Conn: Pink]",
+    "Dist. From First Station(km)": 13.7,
+    "Metro Line": "Red line",
+    "Opened(Year)": "25-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.6718,
+    "Longitude": 77.27756
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Seelampur",
+    "Dist. From First Station(km)": 14.8,
+    "Metro Line": "Red line",
+    "Opened(Year)": "25-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.66989,
+    "Longitude": 77.2667
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Shastri Park",
+    "Dist. From First Station(km)": 16.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "25-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.668,
+    "Longitude": 77.24994
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Kashmere Gate [Conn: Violet,Yellow]",
+    "Dist. From First Station(km)": 18.5,
+    "Metro Line": "Red line",
+    "Opened(Year)": "24-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.6675,
+    "Longitude": 77.22817
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Tis Hazari",
+    "Dist. From First Station(km)": 19.7,
+    "Metro Line": "Red line",
+    "Opened(Year)": "25-12-2002",
+    "Layout": "Elevated",
+    "Latitude": 28.66711,
+    "Longitude": 77.21653
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Pul Bangash",
+    "Dist. From First Station(km)": 20.6,
+    "Metro Line": "Red line",
+    "Opened(Year)": "03-10-2003",
+    "Layout": "Elevated",
+    "Latitude": 28.66636,
+    "Longitude": 77.20727
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Pratap Nagar",
+    "Dist. From First Station(km)": 21.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "03-10-2003",
+    "Layout": "Elevated",
+    "Latitude": 28.66662,
+    "Longitude": 77.19882
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Shastri Nagar",
+    "Dist. From First Station(km)": 23.1,
+    "Metro Line": "Red line",
+    "Opened(Year)": "03-10-2003",
+    "Layout": "Elevated",
+    "Latitude": 28.66999,
+    "Longitude": 77.18169
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Inderlok [Conn: Green]",
+    "Dist. From First Station(km)": 24.3,
+    "Metro Line": "Red line",
+    "Opened(Year)": "03-10-2003",
+    "Layout": "Elevated",
+    "Latitude": 28.67319,
+    "Longitude": 77.16994
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Kanhaiya Nagar",
+    "Dist. From First Station(km)": 25.5,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.68254,
+    "Longitude": 77.16459
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "Keshav Puram",
+    "Dist. From First Station(km)": 26.2,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.68894,
+    "Longitude": 77.1616
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Netaji Subash Place [Conn: Pink]",
+    "Dist. From First Station(km)": 27.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.69591,
+    "Longitude": 77.15226
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "Kohat Enclave",
+    "Dist. From First Station(km)": 28.6,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.6981,
+    "Longitude": 77.14024
+  },
+  {
+    "ID (Station ID)": 26,
+    "Station Names": "Pitam Pura",
+    "Dist. From First Station(km)": 29.6,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.70317,
+    "Longitude": 77.13223
+  },
+  {
+    "ID (Station ID)": 27,
+    "Station Names": "Rohini East",
+    "Dist. From First Station(km)": 30.4,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.7076,
+    "Longitude": 77.12591
+  },
+  {
+    "ID (Station ID)": 28,
+    "Station Names": "Rohini West",
+    "Dist. From First Station(km)": 31.7,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.71483,
+    "Longitude": 77.11467
+  },
+  {
+    "ID (Station ID)": 29,
+    "Station Names": "Rithala(last station)",
+    "Dist. From First Station(km)": 32.7,
+    "Metro Line": "Red line",
+    "Opened(Year)": "31-03-2004",
+    "Layout": "Elevated",
+    "Latitude": 28.72072,
+    "Longitude": 77.10713
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Samaypur Badli(First Station)",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "10-11-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.7446158,
+    "Longitude": 77.1382654
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Rohini Sector 18-19",
+    "Dist. From First Station(km)": 0.8,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "10-11-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.7383477,
+    "Longitude": 77.1398323
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Haiderpur Badli Mor",
+    "Dist. From First Station(km)": 2.1,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "10-11-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.7301214,
+    "Longitude": 77.1494029
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Jahangirpuri",
+    "Dist. From First Station(km)": 3.4,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "04-02-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.72592,
+    "Longitude": 77.16267
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Adarsh Nagar",
+    "Dist. From First Station(km)": 4.7,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "04-02-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.71642,
+    "Longitude": 77.17046
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Azadpur [Conn: Pink]",
+    "Dist. From First Station(km)": 6.2,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "04-02-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.70696,
+    "Longitude": 77.18053
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Model Town",
+    "Dist. From First Station(km)": 7.6,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "04-02-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.70278,
+    "Longitude": 77.19363
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Guru Tegh Bahadur Nagar",
+    "Dist. From First Station(km)": 9,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "04-02-2009",
+    "Layout": "Underground",
+    "Latitude": 28.69785,
+    "Longitude": 77.20722
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Vishwavidyalaya",
+    "Dist. From First Station(km)": 9.8,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "20-12-2004",
+    "Layout": "Underground",
+    "Latitude": 28.6948,
+    "Longitude": 77.21483
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Vidhan Sabha",
+    "Dist. From First Station(km)": 10.8,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "20-12-2004",
+    "Layout": "Underground",
+    "Latitude": 28.68802,
+    "Longitude": 77.2214
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Civil Lines",
+    "Dist. From First Station(km)": 12.1,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "20-12-2004",
+    "Layout": "Underground",
+    "Latitude": 28.6768508,
+    "Longitude": 77.2250299
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Kashmere Gate [Conn: Violet]",
+    "Dist. From First Station(km)": 13.2,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "20-12-2004",
+    "Layout": "Underground",
+    "Latitude": 28.6675,
+    "Longitude": 77.22817
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Chandni Chowk",
+    "Dist. From First Station(km)": 14.3,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.65785,
+    "Longitude": 77.23014
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Chawri Bazar",
+    "Dist. From First Station(km)": 15.3,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.64931,
+    "Longitude": 77.22637
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "New Delhi [Conn: Orange]",
+    "Dist. From First Station(km)": 16.1,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.64307,
+    "Longitude": 77.22144
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Rajiv Chowk [Conn: Blue]",
+    "Dist. From First Station(km)": 17.2,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.63282,
+    "Longitude": 77.21826
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Patel Chowk",
+    "Dist. From First Station(km)": 18.5,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.62295,
+    "Longitude": 77.21389
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Central Secretariat [Conn: Violet]",
+    "Dist. From First Station(km)": 19.4,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-07-2005",
+    "Layout": "Underground",
+    "Latitude": 28.61474,
+    "Longitude": 77.21191
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Udyog Bhawan",
+    "Dist. From First Station(km)": 19.7,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.61166,
+    "Longitude": 77.21198
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Lok Kalyan Marg",
+    "Dist. From First Station(km)": 21.3,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.59726,
+    "Longitude": 77.21088
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Jor Bagh",
+    "Dist. From First Station(km)": 22.5,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.58708,
+    "Longitude": 77.21209
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Dilli Haat INA [Conn: Pink]",
+    "Dist. From First Station(km)": 23.8,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.57526,
+    "Longitude": 77.20935
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "AIIMS",
+    "Dist. From First Station(km)": 24.6,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "02-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.56892,
+    "Longitude": 77.20771
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Green Park",
+    "Dist. From First Station(km)": 25.6,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.55979,
+    "Longitude": 77.20682
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "Hauz Khas [Conn: Magenta]",
+    "Dist. From First Station(km)": 27.4,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.54335,
+    "Longitude": 77.20667
+  },
+  {
+    "ID (Station ID)": 26,
+    "Station Names": "Malviya Nagar",
+    "Dist. From First Station(km)": 29.1,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.52798,
+    "Longitude": 77.20565
+  },
+  {
+    "ID (Station ID)": 27,
+    "Station Names": "Saket",
+    "Dist. From First Station(km)": 30,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "03-09-2010",
+    "Layout": "Underground",
+    "Latitude": 28.5206,
+    "Longitude": 77.20138
+  },
+  {
+    "ID (Station ID)": 28,
+    "Station Names": "Qutab Minar",
+    "Dist. From First Station(km)": 31.7,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.51302,
+    "Longitude": 77.18648
+  },
+  {
+    "ID (Station ID)": 29,
+    "Station Names": "Chhattarpur",
+    "Dist. From First Station(km)": 33,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "26-08-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.50671,
+    "Longitude": 77.17484
+  },
+  {
+    "ID (Station ID)": 30,
+    "Station Names": "Sultanpur",
+    "Dist. From First Station(km)": 34.6,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.49927,
+    "Longitude": 77.16153
+  },
+  {
+    "ID (Station ID)": 31,
+    "Station Names": "Ghitorni",
+    "Dist. From First Station(km)": 35.9,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.49383,
+    "Longitude": 77.14922
+  },
+  {
+    "ID (Station ID)": 32,
+    "Station Names": "Arjan Garh",
+    "Dist. From First Station(km)": 38.6,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.48076,
+    "Longitude": 77.12583
+  },
+  {
+    "ID (Station ID)": 33,
+    "Station Names": "Guru Dronacharya",
+    "Dist. From First Station(km)": 40.9,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.48203,
+    "Longitude": 77.10232
+  },
+  {
+    "ID (Station ID)": 34,
+    "Station Names": "Sikandarpur [Conn: Rapid]",
+    "Dist. From First Station(km)": 41.9,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.48182,
+    "Longitude": 77.09235
+  },
+  {
+    "ID (Station ID)": 35,
+    "Station Names": "MG Road",
+    "Dist. From First Station(km)": 43.1,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.47957,
+    "Longitude": 77.08006
+  },
+  {
+    "ID (Station ID)": 36,
+    "Station Names": "IFFCO Chowk",
+    "Dist. From First Station(km)": 44.2,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.47209,
+    "Longitude": 77.07175
+  },
+  {
+    "ID (Station ID)": 37,
+    "Station Names": "Huda City Centre",
+    "Dist. From First Station(km)": 45.7,
+    "Metro Line": "Yellow line",
+    "Opened(Year)": "21-06-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.45927,
+    "Longitude": 77.07268
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Dwarka Sector 21(First station) [Conn: Orange]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-10-2010",
+    "Layout": "Underground",
+    "Latitude": 28.55226,
+    "Longitude": 77.05828
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Dwarka Sector 8",
+    "Dist. From First Station(km)": 1.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.56583,
+    "Longitude": 77.06706
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Dwarka Sector 9",
+    "Dist. From First Station(km)": 2.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.57487,
+    "Longitude": 77.06454
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Dwarka Sector 10",
+    "Dist. From First Station(km)": 3.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.58068,
+    "Longitude": 77.05682
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Dwarka Sector 11",
+    "Dist. From First Station(km)": 4.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.58657,
+    "Longitude": 77.04929
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Dwarka Sector 12",
+    "Dist. From First Station(km)": 5.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.59232,
+    "Longitude": 77.04051
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Dwarka Sector 13",
+    "Dist. From First Station(km)": 6.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.59722,
+    "Longitude": 77.03326
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Dwarka Sector 14",
+    "Dist. From First Station(km)": 7.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "01-04-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.60223,
+    "Longitude": 77.02588
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Dwarka [Conn: Gray]",
+    "Dist. From First Station(km)": 9.1,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.61564,
+    "Longitude": 77.02197
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Dwarka Mor",
+    "Dist. From First Station(km)": 10.2,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.61932,
+    "Longitude": 77.03326
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Nawada",
+    "Dist. From First Station(km)": 11.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.62025,
+    "Longitude": 77.04514
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Uttam Nagar West",
+    "Dist. From First Station(km)": 12.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.62481,
+    "Longitude": 77.0653
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Uttam Nagar East",
+    "Dist. From First Station(km)": 13.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.62177,
+    "Longitude": 77.05585
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Janak Puri West [Conn: Magenta]",
+    "Dist. From First Station(km)": 14.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.62943,
+    "Longitude": 77.07767
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Janak Puri East",
+    "Dist. From First Station(km)": 15.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.63305,
+    "Longitude": 77.08669
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Tilak Nagar",
+    "Dist. From First Station(km)": 16.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.63657,
+    "Longitude": 77.09648
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Subhash Nagar",
+    "Dist. From First Station(km)": 17.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.64039,
+    "Longitude": 77.10495
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Tagore Garden",
+    "Dist. From First Station(km)": 18.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.64379,
+    "Longitude": 77.11284
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Rajouri Garden [Conn: Pink]",
+    "Dist. From First Station(km)": 19.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.64902,
+    "Longitude": 77.1227
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Ramesh Nagar",
+    "Dist. From First Station(km)": 20.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.65274,
+    "Longitude": 77.13164
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Moti Nagar",
+    "Dist. From First Station(km)": 21.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.65784,
+    "Longitude": 77.14248
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Kirti Nagar [Conn: Green]",
+    "Dist. From First Station(km)": 22.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.65575,
+    "Longitude": 77.15057
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "Shadipur",
+    "Dist. From First Station(km)": 23.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.6516,
+    "Longitude": 77.15824
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Patel Nagar",
+    "Dist. From First Station(km)": 24.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.64498,
+    "Longitude": 77.16929
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "Rajendra Place",
+    "Dist. From First Station(km)": 25.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.6425,
+    "Longitude": 77.17815
+  },
+  {
+    "ID (Station ID)": 26,
+    "Station Names": "Karol Bagh",
+    "Dist. From First Station(km)": 26.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.644,
+    "Longitude": 77.18855
+  },
+  {
+    "ID (Station ID)": 27,
+    "Station Names": "Jhandewalan",
+    "Dist. From First Station(km)": 27.9,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.64427,
+    "Longitude": 77.19988
+  },
+  {
+    "ID (Station ID)": 28,
+    "Station Names": "R K Ashram Marg",
+    "Dist. From First Station(km)": 28.9,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Elevated",
+    "Latitude": 28.63923,
+    "Longitude": 77.2084
+  },
+  {
+    "ID (Station ID)": 29,
+    "Station Names": "Rajiv Chowk [Conn: Yellow]",
+    "Dist. From First Station(km)": 30.1,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Underground",
+    "Latitude": 28.63282,
+    "Longitude": 77.21826
+  },
+  {
+    "ID (Station ID)": 30,
+    "Station Names": "Barakhamba",
+    "Dist. From First Station(km)": 30.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "30-12-2005",
+    "Layout": "Underground",
+    "Latitude": 28.63003,
+    "Longitude": 77.22436
+  },
+  {
+    "ID (Station ID)": 31,
+    "Station Names": "Mandi House [Conn: Violet]",
+    "Dist. From First Station(km)": 31.8,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "11-11-2006",
+    "Layout": "Underground",
+    "Latitude": 28.62588,
+    "Longitude": 77.2341
+  },
+  {
+    "ID (Station ID)": 32,
+    "Station Names": "Supreme Court (Pragati Maidan)",
+    "Dist. From First Station(km)": 32.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "11-11-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.62342,
+    "Longitude": 77.2425
+  },
+  {
+    "ID (Station ID)": 33,
+    "Station Names": "Indraprastha",
+    "Dist. From First Station(km)": 33.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "11-11-2006",
+    "Layout": "Elevated",
+    "Latitude": 28.62051,
+    "Longitude": 77.24993
+  },
+  {
+    "ID (Station ID)": 34,
+    "Station Names": "Yamuna Bank",
+    "Dist. From First Station(km)": 35.2,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "10-05-2009",
+    "Layout": "At-Grade",
+    "Latitude": 28.62331,
+    "Longitude": 77.26792
+  },
+  {
+    "ID (Station ID)": 35,
+    "Station Names": "Akshardham",
+    "Dist. From First Station(km)": 36.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.61806,
+    "Longitude": 77.27869
+  },
+  {
+    "ID (Station ID)": 36,
+    "Station Names": "Mayur Vihar Phase-1 [Conn: Pink]",
+    "Dist. From First Station(km)": 38.3,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.60442,
+    "Longitude": 77.29455
+  },
+  {
+    "ID (Station ID)": 37,
+    "Station Names": "Mayur Vihar Extention",
+    "Dist. From First Station(km)": 39.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.59415815,
+    "Longitude": 77.29458935
+  },
+  {
+    "ID (Station ID)": 38,
+    "Station Names": "New Ashok Nagar",
+    "Dist. From First Station(km)": 40.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.58916,
+    "Longitude": 77.30204
+  },
+  {
+    "ID (Station ID)": 39,
+    "Station Names": "Noida Sector 15",
+    "Dist. From First Station(km)": 41.4,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.58512,
+    "Longitude": 77.31139
+  },
+  {
+    "ID (Station ID)": 40,
+    "Station Names": "Noida Sector 16",
+    "Dist. From First Station(km)": 42.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.57819,
+    "Longitude": 77.31757
+  },
+  {
+    "ID (Station ID)": 41,
+    "Station Names": "Noida Sector 18",
+    "Dist. From First Station(km)": 43.6,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.57081,
+    "Longitude": 77.32612
+  },
+  {
+    "ID (Station ID)": 42,
+    "Station Names": "Botanical Garden [Conn: Magenta]",
+    "Dist. From First Station(km)": 44.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.56409,
+    "Longitude": 77.3342
+  },
+  {
+    "ID (Station ID)": 43,
+    "Station Names": "Golf Course",
+    "Dist. From First Station(km)": 45.9,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.56714,
+    "Longitude": 77.34598
+  },
+  {
+    "ID (Station ID)": 44,
+    "Station Names": "Noida City Center",
+    "Dist. From First Station(km)": 47.2,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "12-11-2009",
+    "Layout": "Elevated",
+    "Latitude": 28.57466,
+    "Longitude": 77.35608
+  },
+  {
+    "ID (Station ID)": 45,
+    "Station Names": "Noida Sector 34",
+    "Dist. From First Station(km)": 48.1,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "09-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 46,
+    "Station Names": "Noida Sector 52 [Conn: Aqua]",
+    "Dist. From First Station(km)": 49.3,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "09-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 47,
+    "Station Names": "Noida Sector 61",
+    "Dist. From First Station(km)": 50.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "09-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 48,
+    "Station Names": "Noida Sector 59",
+    "Dist. From First Station(km)": 51.5,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "09-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 49,
+    "Station Names": "Noida Sector 62",
+    "Dist. From First Station(km)": 52.7,
+    "Metro Line": "Blue line",
+    "Opened(Year)": "09-03-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Yamuna Bank",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "10-05-2009",
+    "Layout": "At-Grade",
+    "Latitude": 28.62331,
+    "Longitude": 77.26792
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Laxmi Nagar",
+    "Dist. From First Station(km)": 1.3,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "06-01-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.63064,
+    "Longitude": 77.27749
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Nirman Vihar",
+    "Dist. From First Station(km)": 2.4,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "06-01-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.63663,
+    "Longitude": 77.28683
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Preet Vihar",
+    "Dist. From First Station(km)": 3.4,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "06-01-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.64171,
+    "Longitude": 77.29543
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Karkar Duma [Conn: Pink]",
+    "Dist. From First Station(km)": 4.6,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "06-01-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.64849,
+    "Longitude": 77.30558
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Anand Vihar [Conn: Pink]",
+    "Dist. From First Station(km)": 5.7,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "06-01-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.64695,
+    "Longitude": 77.31603
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Kaushambi",
+    "Dist. From First Station(km)": 6.5,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "14-07-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.64544,
+    "Longitude": 77.32432
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Vaishali",
+    "Dist. From First Station(km)": 8.1,
+    "Metro Line": "Blue line branch",
+    "Opened(Year)": "14-07-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.64997,
+    "Longitude": 77.33974
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Ashok Park Main",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Green line branch",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67292,
+    "Longitude": 77.1442
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Satguru Ram Singh Marg",
+    "Dist. From First Station(km)": 1.1,
+    "Metro Line": "Green line branch",
+    "Opened(Year)": "24-08-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.66199,
+    "Longitude": 77.15748
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Kirti Nagar [Conn: Blue]",
+    "Dist. From First Station(km)": 2.1,
+    "Metro Line": "Green line branch",
+    "Opened(Year)": "27-08-2011",
+    "Layout": "At-Grade",
+    "Latitude": 28.65575,
+    "Longitude": 77.15057
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Inderlok Conn:Red",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67319,
+    "Longitude": 77.16994
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Ashok Park Main",
+    "Dist. From First Station(km)": 1.4,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67153,
+    "Longitude": 77.15527
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Punjabi Bagh",
+    "Dist. From First Station(km)": 2.3,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67289,
+    "Longitude": 77.14614
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Shivaji Park",
+    "Dist. From First Station(km)": 3.9,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.6749,
+    "Longitude": 77.13056
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Madipur",
+    "Dist. From First Station(km)": 5,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67734,
+    "Longitude": 77.11965
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Paschim Vihar (East)",
+    "Dist. From First Station(km)": 5.7,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.6773,
+    "Longitude": 77.11228
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Paschim Vihar (West)",
+    "Dist. From First Station(km)": 6.7,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67855,
+    "Longitude": 77.10227
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Peera Garhi",
+    "Dist. From First Station(km)": 7.6,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.67959,
+    "Longitude": 77.09261
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Udyog Nagar",
+    "Dist. From First Station(km)": 8.8,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.6809,
+    "Longitude": 77.08077
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Maharaja Surajmal Stadium",
+    "Dist. From First Station(km)": 9.5,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.6818,
+    "Longitude": 77.07385
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Nangloi",
+    "Dist. From First Station(km)": 10.3,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.68231,
+    "Longitude": 77.06471
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Nangloi Railway Station",
+    "Dist. From First Station(km)": 11.2,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.68208,
+    "Longitude": 77.05596
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Rajdhani Park",
+    "Dist. From First Station(km)": 12.4,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.68221,
+    "Longitude": 77.04381
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Mundka",
+    "Dist. From First Station(km)": 13.7,
+    "Metro Line": "Green line",
+    "Opened(Year)": "02-04-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.68321,
+    "Longitude": 77.03133
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Mundka Industrial Area (MIA)",
+    "Dist. From First Station(km)": 15,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6834491,
+    "Longitude": 77.0171333
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Ghevra Metro station",
+    "Dist. From First Station(km)": 17.1,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6852384,
+    "Longitude": 76.9961591
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Tikri Kalan",
+    "Dist. From First Station(km)": 18.9,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6868661,
+    "Longitude": 76.9772069
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Tikri Border",
+    "Dist. From First Station(km)": 20.2,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6880254,
+    "Longitude": 76.9640828
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Pandit Shree Ram Sharma",
+    "Dist. From First Station(km)": 21.5,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.689281,
+    "Longitude": 76.9511988
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Bahdurgarh City",
+    "Dist. From First Station(km)": 23,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6907847,
+    "Longitude": 76.9354851
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Brigadier Hoshiar Singh",
+    "Dist. From First Station(km)": 24.8,
+    "Metro Line": "Green line",
+    "Opened(Year)": "24-06-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6974603,
+    "Longitude": 76.9192027
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Sector 55-66",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "31-03-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Sector 54 Chowk",
+    "Dist. From First Station(km)": 1.1,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "31-03-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Sector 53-54",
+    "Dist. From First Station(km)": 2.6,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "25-04-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Sector 42-43",
+    "Dist. From First Station(km)": 3.9,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "25-04-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "DLF Phase 1",
+    "Dist. From First Station(km)": 5.5,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "31-03-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Sikandarpur [Conn: Yellow]",
+    "Dist. From First Station(km)": 6.6,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "14-11-2013",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "DLF Phase 2",
+    "Dist. From First Station(km)": 7.3,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "14-11-2013",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Belvedere Towers",
+    "Dist. From First Station(km)": 8,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "14-11-2013",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Cyber City",
+    "Dist. From First Station(km)": 8.6,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "07-05-2014",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Moulsari Avenue",
+    "Dist. From First Station(km)": 9.2,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "14-11-2013",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "DLF Phase 3",
+    "Dist. From First Station(km)": 10,
+    "Metro Line": "Rapid Metro",
+    "Opened(Year)": "14-11-2013",
+    "Layout": "Elevated",
+    "Latitude": 28.4936,
+    "Longitude": 77.0935
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Kashmere Gate [Conn: Yellow]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "28-05-2017",
+    "Layout": "Underground",
+    "Latitude": 28.6675,
+    "Longitude": 77.22817
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Lal Quila",
+    "Dist. From First Station(km)": 1.5,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "28-05-2017",
+    "Layout": "Underground",
+    "Latitude": 27.92086195,
+    "Longitude": 77.52850191
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Jama Masjid",
+    "Dist. From First Station(km)": 2.3,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "28-05-2017",
+    "Layout": "Underground",
+    "Latitude": 28.65001015,
+    "Longitude": 77.23767617
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Delhi Gate",
+    "Dist. From First Station(km)": 3.7,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "28-05-2017",
+    "Layout": "Underground",
+    "Latitude": 28.6392036,
+    "Longitude": 77.2407823
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "ITO",
+    "Dist. From First Station(km)": 5,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "08-06-2015",
+    "Layout": "Underground",
+    "Latitude": 28.6305091,
+    "Longitude": 77.2414363
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Mandi House [Conn: Blue]",
+    "Dist. From First Station(km)": 5.8,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "26-06-2014",
+    "Layout": "Underground",
+    "Latitude": 28.6255556,
+    "Longitude": 77.234195
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Janpath",
+    "Dist. From First Station(km)": 7.2,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "26-06-2014",
+    "Layout": "Underground",
+    "Latitude": 28.6088598,
+    "Longitude": 77.2181649
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Central Secretariat [Conn: Yellow]",
+    "Dist. From First Station(km)": 8.5,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Underground",
+    "Latitude": 28.61474,
+    "Longitude": 77.21191
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Khan Market",
+    "Dist. From First Station(km)": 10.6,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Underground",
+    "Latitude": 28.60276,
+    "Longitude": 77.22829
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Jawaharlal Nehru Stadium",
+    "Dist. From First Station(km)": 12,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Underground",
+    "Latitude": 28.5904,
+    "Longitude": 77.23326
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Jangpura",
+    "Dist. From First Station(km)": 12.9,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Underground",
+    "Latitude": 28.5843,
+    "Longitude": 77.23766
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Lajpat Nagar [Conn: Pink]",
+    "Dist. From First Station(km)": 14.4,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.57079,
+    "Longitude": 77.23653
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Moolchand",
+    "Dist. From First Station(km)": 15.1,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.56417,
+    "Longitude": 77.23423
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Kailash Colony",
+    "Dist. From First Station(km)": 16.4,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.55527,
+    "Longitude": 77.24205
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Nehru Place",
+    "Dist. From First Station(km)": 17.4,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.55148,
+    "Longitude": 77.25154
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Kalkaji Mandir [Conn: Magenta]",
+    "Dist. From First Station(km)": 18.2,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.55007,
+    "Longitude": 77.25835
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Govind Puri",
+    "Dist. From First Station(km)": 18.9,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.54451,
+    "Longitude": 77.26401
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Okhla",
+    "Dist. From First Station(km)": 20,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.54292,
+    "Longitude": 77.27504
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Jasola",
+    "Dist. From First Station(km)": 20.9,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.53824,
+    "Longitude": 77.28319
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Sarita Vihar",
+    "Dist. From First Station(km)": 22.1,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "03-10-2010",
+    "Layout": "Elevated",
+    "Latitude": 28.52878,
+    "Longitude": 77.28826
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Mohan Estate",
+    "Dist. From First Station(km)": 23.3,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "14-01-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.51938,
+    "Longitude": 77.29388
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Tughlakabad",
+    "Dist. From First Station(km)": 25.2,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "14-01-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.50254,
+    "Longitude": 77.2993
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "Badarpur Border",
+    "Dist. From First Station(km)": 26.3,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "14-01-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.49334,
+    "Longitude": 77.30307
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Sarai",
+    "Dist. From First Station(km)": 28.8,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.6517178,
+    "Longitude": 77.2219388
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "N.H.P.C. Chowk",
+    "Dist. From First Station(km)": 30.4,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.45769,
+    "Longitude": 77.2219388
+  },
+  {
+    "ID (Station ID)": 26,
+    "Station Names": "Mewala Maharajpur",
+    "Dist. From First Station(km)": 31.3,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.4418747,
+    "Longitude": 77.3023001
+  },
+  {
+    "ID (Station ID)": 27,
+    "Station Names": "Sector 28 Faridabad",
+    "Dist. From First Station(km)": 32.5,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.54525655,
+    "Longitude": 77.03257609
+  },
+  {
+    "ID (Station ID)": 28,
+    "Station Names": "Badkal Mor",
+    "Dist. From First Station(km)": 34.2,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.422814,
+    "Longitude": 77.310278
+  },
+  {
+    "ID (Station ID)": 29,
+    "Station Names": "Old Faridabad",
+    "Dist. From First Station(km)": 35.4,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.4808629,
+    "Longitude": 77.0848883
+  },
+  {
+    "ID (Station ID)": 30,
+    "Station Names": "Neelam Chowk Ajronda",
+    "Dist. From First Station(km)": 37,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.3974824,
+    "Longitude": 77.3123599
+  },
+  {
+    "ID (Station ID)": 31,
+    "Station Names": "Bata Chowk",
+    "Dist. From First Station(km)": 38.3,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.3858361,
+    "Longitude": 77.313462
+  },
+  {
+    "ID (Station ID)": 32,
+    "Station Names": "Escorts Mujesar",
+    "Dist. From First Station(km)": 40.1,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "06-09-2015",
+    "Layout": "Elevated",
+    "Latitude": 28.3702344,
+    "Longitude": 77.3149203
+  },
+  {
+    "ID (Station ID)": 33,
+    "Station Names": "Sant Surdas - Sihi",
+    "Dist. From First Station(km)": 41.8,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "19-11-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.3546513,
+    "Longitude": 77.3162264
+  },
+  {
+    "ID (Station ID)": 34,
+    "Station Names": "Raja Nahar Singh",
+    "Dist. From First Station(km)": 43.5,
+    "Metro Line": "Voilet line",
+    "Opened(Year)": "19-11-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.3400192,
+    "Longitude": 77.3164281
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Janak Puri West [Conn: Blue]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.6289502,
+    "Longitude": 77.0779235
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Dabri Mor - Janakpuri South",
+    "Dist. From First Station(km)": 2,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.6157555,
+    "Longitude": 77.085178
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Dashrath Puri",
+    "Dist. From First Station(km)": 3.1,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.6018751,
+    "Longitude": 77.0823561
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Palam",
+    "Dist. From First Station(km)": 4.6,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5918933,
+    "Longitude": 77.0828242
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Sadar Bazaar Cantonment",
+    "Dist. From First Station(km)": 7.2,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.5771509,
+    "Longitude": 77.1111533
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Terminal 1 IGI Airport",
+    "Dist. From First Station(km)": 8.9,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5771509,
+    "Longitude": 77.1111533
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Shankar Vihar",
+    "Dist. From First Station(km)": 10.7,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.55743865,
+    "Longitude": 77.13966549
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Vasant Vihar",
+    "Dist. From First Station(km)": 12.8,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.56069055,
+    "Longitude": 77.16079073
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Munirka",
+    "Dist. From First Station(km)": 14,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.554886,
+    "Longitude": 77.1710841
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "RK Puram",
+    "Dist. From First Station(km)": 15.4,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5514261,
+    "Longitude": 77.1847012
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "IIT Delhi",
+    "Dist. From First Station(km)": 16.3,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.544788,
+    "Longitude": 77.18987
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Hauz Khas [Conn: Yellow]",
+    "Dist. From First Station(km)": 17.5,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5442564,
+    "Longitude": 77.2067072
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Panchsheel Park",
+    "Dist. From First Station(km)": 19,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5433525,
+    "Longitude": 77.2140757
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Chirag Delhi",
+    "Dist. From First Station(km)": 19.9,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5381411,
+    "Longitude": 77.2280694
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Greater Kailash",
+    "Dist. From First Station(km)": 20.8,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5418777,
+    "Longitude": 77.2384553
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Nehru Enclave",
+    "Dist. From First Station(km)": 22.1,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "29-05-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5460584,
+    "Longitude": 77.2515057
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Kalkaji Mandir [Conn: Violet]",
+    "Dist. From First Station(km)": 23,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Underground",
+    "Latitude": 28.5497752,
+    "Longitude": 77.2606671
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Okhla NSIC",
+    "Dist. From First Station(km)": 23.8,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5544828,
+    "Longitude": 77.2648487
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Sukhdev Vihar",
+    "Dist. From First Station(km)": 24.9,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5597477,
+    "Longitude": 77.2749004
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "JAMIA MILLIA ISLAMIA",
+    "Dist. From First Station(km)": 26.1,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.55849025,
+    "Longitude": 77.28116474
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Okhla Vihar",
+    "Dist. From First Station(km)": 26.6,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5613002,
+    "Longitude": 77.2919304
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Jasola Vihar Shaheen Bagh",
+    "Dist. From First Station(km)": 28.4,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5458279,
+    "Longitude": 77.2966578
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "Kalindi Kunj",
+    "Dist. From First Station(km)": 29.8,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5452187,
+    "Longitude": 77.3059891
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Okhla Bird Sanctuary",
+    "Dist. From First Station(km)": 31.4,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5529418,
+    "Longitude": 77.321595
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "Botanical Garden [Conn: Blue]",
+    "Dist. From First Station(km)": 33.1,
+    "Metro Line": "Magenta line",
+    "Opened(Year)": "25-12-2017",
+    "Layout": "Elevated",
+    "Latitude": 28.5638964,
+    "Longitude": 77.334332
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Majlis Park",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.7244312,
+    "Longitude": 77.181964
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Azadpur [Conn: Yellow]",
+    "Dist. From First Station(km)": 2.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Underground",
+    "Latitude": 28.7076568,
+    "Longitude": 77.1755473
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Shalimar Bagh",
+    "Dist. From First Station(km)": 3.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Underground",
+    "Latitude": 28.71745265,
+    "Longitude": 77.15086655
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Netaji Subash Place [Conn: Red]",
+    "Dist. From First Station(km)": 5.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Underground",
+    "Latitude": 28.69605175,
+    "Longitude": 77.15264042
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Shakurpur",
+    "Dist. From First Station(km)": 6.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6857668,
+    "Longitude": 77.1496094
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Punjabi Bagh West",
+    "Dist. From First Station(km)": 7.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6703201,
+    "Longitude": 77.1420875
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "ESI BASAI DARAPUR",
+    "Dist. From First Station(km)": 10.2,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6580737,
+    "Longitude": 77.1272678
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Rajouri Garden [Conn: Blue]",
+    "Dist. From First Station(km)": 11.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6421518,
+    "Longitude": 77.11606038
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Maya Puri",
+    "Dist. From First Station(km)": 12.8,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6371795,
+    "Longitude": 77.1297333
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Naraina Vihar",
+    "Dist. From First Station(km)": 14.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Underground",
+    "Latitude": 28.6273375,
+    "Longitude": 77.1403175
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Delhi Cantt",
+    "Dist. From First Station(km)": 16.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.5938331,
+    "Longitude": 77.13497891
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Durgabai Deshmukh South Campus [Conn: Orange]",
+    "Dist. From First Station(km)": 19.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "14-03-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.5894384,
+    "Longitude": 77.1690817
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Sir Vishweshwaraiah Moti Bagh",
+    "Dist. From First Station(km)": 21,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.5785326,
+    "Longitude": 77.175741
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Bhikaji Cama Place",
+    "Dist. From First Station(km)": 22.6,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Underground",
+    "Latitude": 28.56790025,
+    "Longitude": 77.18701648
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Sarojini Nagar",
+    "Dist. From First Station(km)": 23.8,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5741575,
+    "Longitude": 77.1953703
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Dilli Haat INA [Conn: Yellow]",
+    "Dist. From First Station(km)": 24.9,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Underground",
+    "Latitude": 28.57440755,
+    "Longitude": 77.21024148
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "South Extension",
+    "Dist. From First Station(km)": 26.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Underground",
+    "Latitude": 28.6517178,
+    "Longitude": 77.2219388
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Lajpat Nagar [Conn: Violet]",
+    "Dist. From First Station(km)": 27.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "06-08-2018",
+    "Layout": "Underground",
+    "Latitude": 28.57079,
+    "Longitude": 77.23653
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Vinobapuri",
+    "Dist. From First Station(km)": 29.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-12-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5669763,
+    "Longitude": 77.2491906
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "Ashram",
+    "Dist. From First Station(km)": 30.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-12-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5724231,
+    "Longitude": 77.2585979
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Sarai Kale Khan Hazrat Nizamuddin",
+    "Dist. From First Station(km)": 32.2,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-12-2018",
+    "Layout": "Underground",
+    "Latitude": 28.5887494,
+    "Longitude": 77.2572494
+  },
+  {
+    "ID (Station ID)": 22,
+    "Station Names": "Mayur Vihar Phase-1 [Conn: Blue]",
+    "Dist. From First Station(km)": 35.8,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-12-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.603133,
+    "Longitude": 77.2925892
+  },
+  {
+    "ID (Station ID)": 23,
+    "Station Names": "Mayur Vihar Pocket I",
+    "Dist. From First Station(km)": 36.6,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6058619,
+    "Longitude": 77.2987023
+  },
+  {
+    "ID (Station ID)": 24,
+    "Station Names": "Trilokpuri Sanjay Lake",
+    "Dist. From First Station(km)": 37.9,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.613453,
+    "Longitude": 77.3088549
+  },
+  {
+    "ID (Station ID)": 25,
+    "Station Names": "Vinod Nagar East",
+    "Dist. From First Station(km)": 38.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6200437,
+    "Longitude": 77.3054069
+  },
+  {
+    "ID (Station ID)": 26,
+    "Station Names": "Mandawali - West Vinod Nagar",
+    "Dist. From First Station(km)": 39.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6249712,
+    "Longitude": 77.3044906
+  },
+  {
+    "ID (Station ID)": 27,
+    "Station Names": "IP Extension",
+    "Dist. From First Station(km)": 40.3,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6288991,
+    "Longitude": 77.31019788
+  },
+  {
+    "ID (Station ID)": 28,
+    "Station Names": "Anand Vihar [Conn: Blue]",
+    "Dist. From First Station(km)": 41.9,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6467533,
+    "Longitude": 77.3180037
+  },
+  {
+    "ID (Station ID)": 29,
+    "Station Names": "Karkar Duma [Conn: Blue]",
+    "Dist. From First Station(km)": 42.9,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6491622,
+    "Longitude": 77.30620811
+  },
+  {
+    "ID (Station ID)": 30,
+    "Station Names": "Karkarduma Court",
+    "Dist. From First Station(km)": 44,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6536001,
+    "Longitude": 77.2957877
+  },
+  {
+    "ID (Station ID)": 31,
+    "Station Names": "Krishna Nagar",
+    "Dist. From First Station(km)": 44.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6578461,
+    "Longitude": 77.2901853
+  },
+  {
+    "ID (Station ID)": 32,
+    "Station Names": "East Azad Nagar",
+    "Dist. From First Station(km)": 45.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6646964,
+    "Longitude": 77.284881
+  },
+  {
+    "ID (Station ID)": 33,
+    "Station Names": "Welcome [Conn: Red]",
+    "Dist. From First Station(km)": 46.8,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6718,
+    "Longitude": 77.27756
+  },
+  {
+    "ID (Station ID)": 34,
+    "Station Names": "Jaffrabad",
+    "Dist. From First Station(km)": 48,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.6826822,
+    "Longitude": 77.2748055
+  },
+  {
+    "ID (Station ID)": 35,
+    "Station Names": "Maujpur",
+    "Dist. From First Station(km)": 49.1,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.69197845,
+    "Longitude": 77.27962397
+  },
+  {
+    "ID (Station ID)": 36,
+    "Station Names": "Gokulpuri",
+    "Dist. From First Station(km)": 50.4,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.7024752,
+    "Longitude": 77.2861253
+  },
+  {
+    "ID (Station ID)": 37,
+    "Station Names": "Johri Enclave",
+    "Dist. From First Station(km)": 51.7,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.71288,
+    "Longitude": 77.2861253
+  },
+  {
+    "ID (Station ID)": 38,
+    "Station Names": "Shiv Vihar",
+    "Dist. From First Station(km)": 52.6,
+    "Metro Line": "Pink line",
+    "Opened(Year)": "31-10-2018",
+    "Layout": "Elevated",
+    "Latitude": 28.61753755,
+    "Longitude": 77.03543017
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Noida Sector 51 [Conn: Blue]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.5857,
+    "Longitude": 77.3753
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Noida Sector 50",
+    "Dist. From First Station(km)": 1.3,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.535517,
+    "Longitude": 77.391029
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Noida Sector 76",
+    "Dist. From First Station(km)": 2.3,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.568746,
+    "Longitude": 77.382685
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Noida Sector 101",
+    "Dist. From First Station(km)": 3.4,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.556402,
+    "Longitude": 77.384798
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "Noida Sector 81",
+    "Dist. From First Station(km)": 4.3,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6225753,
+    "Longitude": 77.3743146
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "NSEZ Noida",
+    "Dist. From First Station(km)": 6.3,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.535517,
+    "Longitude": 77.391029
+  },
+  {
+    "ID (Station ID)": 7,
+    "Station Names": "Noida Sector 83",
+    "Dist. From First Station(km)": 7.4,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.524115,
+    "Longitude": 77.397244
+  },
+  {
+    "ID (Station ID)": 8,
+    "Station Names": "Noida Sector 137",
+    "Dist. From First Station(km)": 8.9,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.5090789,
+    "Longitude": 77.409015
+  },
+  {
+    "ID (Station ID)": 9,
+    "Station Names": "Noida Sector 142",
+    "Dist. From First Station(km)": 10.5,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4758348,
+    "Longitude": 77.55447875
+  },
+  {
+    "ID (Station ID)": 10,
+    "Station Names": "Noida Sector 143",
+    "Dist. From First Station(km)": 11.5,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.50266325,
+    "Longitude": 77.42625566
+  },
+  {
+    "ID (Station ID)": 11,
+    "Station Names": "Noida Sector 144",
+    "Dist. From First Station(km)": 12.9,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4089049,
+    "Longitude": 76.9155232
+  },
+  {
+    "ID (Station ID)": 12,
+    "Station Names": "Noida Sector 145",
+    "Dist. From First Station(km)": 14.1,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4089049,
+    "Longitude": 76.9155232
+  },
+  {
+    "ID (Station ID)": 13,
+    "Station Names": "Noida Sector 146",
+    "Dist. From First Station(km)": 15.8,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4082289,
+    "Longitude": 76.963024
+  },
+  {
+    "ID (Station ID)": 14,
+    "Station Names": "Noida Sector 147",
+    "Dist. From First Station(km)": 17.3,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4089049,
+    "Longitude": 76.9155232
+  },
+  {
+    "ID (Station ID)": 15,
+    "Station Names": "Noida Sector 148",
+    "Dist. From First Station(km)": 18.9,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4758348,
+    "Longitude": 77.55447875
+  },
+  {
+    "ID (Station ID)": 16,
+    "Station Names": "Knowledge Park II",
+    "Dist. From First Station(km)": 21.4,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4568669,
+    "Longitude": 77.50005403
+  },
+  {
+    "ID (Station ID)": 17,
+    "Station Names": "Pari Chowk Greater Noida",
+    "Dist. From First Station(km)": 22.5,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4631285,
+    "Longitude": 77.50809851
+  },
+  {
+    "ID (Station ID)": 18,
+    "Station Names": "Alpha 1 Greater Noida",
+    "Dist. From First Station(km)": 23.4,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.4709,
+    "Longitude": 77.5127
+  },
+  {
+    "ID (Station ID)": 19,
+    "Station Names": "Delta 1 Greater Noida",
+    "Dist. From First Station(km)": 24.9,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.474388,
+    "Longitude": 77.50399
+  },
+  {
+    "ID (Station ID)": 20,
+    "Station Names": "GNIDA Office",
+    "Dist. From First Station(km)": 26.2,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.474388,
+    "Longitude": 77.50399
+  },
+  {
+    "ID (Station ID)": 21,
+    "Station Names": "Depot Greater Noida",
+    "Dist. From First Station(km)": 27.1,
+    "Metro Line": "Aqua line",
+    "Opened(Year)": "25-01-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.474388,
+    "Longitude": 77.50399
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "Dwarka [Conn: Blue]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Gray line",
+    "Opened(Year)": "04-10-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.5771915,
+    "Longitude": 77.0442935
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Nangli",
+    "Dist. From First Station(km)": 1.5,
+    "Metro Line": "Gray line",
+    "Opened(Year)": "04-10-2019",
+    "Layout": "Elevated",
+    "Latitude": 28.6173003,
+    "Longitude": 77.0104375
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Najafgarh",
+    "Dist. From First Station(km)": 3.9,
+    "Metro Line": "Gray line",
+    "Opened(Year)": "04-10-2019",
+    "Layout": "Underground",
+    "Latitude": 28.612304,
+    "Longitude": 76.9823908
+  },
+  {
+    "ID (Station ID)": 1,
+    "Station Names": "New Delhi-Airport Express [Conn: Yellow]",
+    "Dist. From First Station(km)": 0,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "23-02-2011",
+    "Layout": "Underground",
+    "Latitude": 28.64307,
+    "Longitude": 77.22144
+  },
+  {
+    "ID (Station ID)": 2,
+    "Station Names": "Shivaji Stadium",
+    "Dist. From First Station(km)": 1.9,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "23-02-2011",
+    "Layout": "Underground",
+    "Latitude": 28.62901,
+    "Longitude": 77.2119
+  },
+  {
+    "ID (Station ID)": 3,
+    "Station Names": "Dhaula Kuan [Conn: Pink]",
+    "Dist. From First Station(km)": 8.3,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "15-08-2011",
+    "Layout": "Elevated",
+    "Latitude": 28.59178,
+    "Longitude": 77.16155
+  },
+  {
+    "ID (Station ID)": 4,
+    "Station Names": "Delhi Aerocity",
+    "Dist. From First Station(km)": 14.5,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "15-08-2011",
+    "Layout": "Underground",
+    "Latitude": 28.54881,
+    "Longitude": 77.12092
+  },
+  {
+    "ID (Station ID)": 5,
+    "Station Names": "IGI Airport",
+    "Dist. From First Station(km)": 17.9,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "23-02-2011",
+    "Layout": "Underground",
+    "Latitude": 28.55693,
+    "Longitude": 77.08669
+  },
+  {
+    "ID (Station ID)": 6,
+    "Station Names": "Dwarka Sector 21 [Conn: Blue]",
+    "Dist. From First Station(km)": 20.8,
+    "Metro Line": "Orange line",
+    "Opened(Year)": "23-02-2011",
+    "Layout": "Underground",
+    "Latitude": 28.55226,
+    "Longitude": 77.05828
+  }
+]
